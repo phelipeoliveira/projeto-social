@@ -58,3 +58,7 @@ p > strong {
     background-color: rgb(255, 0, 170);
     color: white;
 }
+
+hr {
+    color: white;
+}
